@@ -25,7 +25,7 @@ jobs:
 
       - name: 📊 General
         if: ${{ success() || failure() }}
-        uses: gh-metrics/metrics@master
+        uses: stalomeow/metrics@projects-v2
         with:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
