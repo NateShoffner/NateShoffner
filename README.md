@@ -3,6 +3,9 @@ into all things tech: solving interesting problems and building things about as 
 as breaking them. I work across the stack and off it: web, mobile, desktop, and
 embedded.
 
+Laziness is my inspiration.
+Abandoned projects are my specialty.
+
 #### What I'm Into
 - **Full-stack & APIs**: equally at home in the front end, back end, or anywhere in between
 - **Search & observability**: living in the ELK stack, keeping an eye on what's actually happening
